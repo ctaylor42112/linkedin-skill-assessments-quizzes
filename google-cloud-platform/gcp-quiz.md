@@ -308,14 +308,14 @@ Note: Free trial doesn't have the organizations.
   3. Create a Compute Instance VM to be the client.
   4. Create a file on the mounted fileshare.
   ```
-- [ ]
+- [x]
   ```
   1. Create a Filestore instance.
   2. Mount the fileshare from that instance on a client VM instance.
   3. Create a file on the mounted file share.
   4. Create a Compute Instance VM to be the client.
   ```
-- [x]
+- [_]
   ```
   1. Create a Compute Instance VM to be the client.
   2. Create a Filestore instance.
