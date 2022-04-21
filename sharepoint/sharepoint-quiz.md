@@ -327,8 +327,8 @@
 #### 39. You would like a SharePoint subsite to have a mailbox. While researching configuration options, which statement do you find to be true?
 
 - [ ] a subsite can have a single mailbox
-- [x] a susite cannot have a mailbox
-- [ ] a subsite canhave any number of mailboxes
+- [x] a subsite cannot have a mailbox
+- [ ] a subsite can have any number of mailboxes
 - [ ] a subsite can have a shared mailbox with the parent site
 
 #### 40. A user needs to access a business intelligence reporting dashboard within a SharePoint site. Currently they do not have permission to view any content. Which group can provide the appropriate permissions?
@@ -337,3 +337,26 @@
 - [ ] Team Site Visitors
 - [ ] Excel Serices Viewers
 - [ ] Everyone except external users
+
+
+#### 41. What can you do from the Microsoft SharePoint start page?
+
+- [ ] Add members.
+- [ ] Create new document libraries.
+- [ ] Create new sites.
+- [ ] Create a new list. 
+
+#### 42. During the creation of a SharePoint site, permission inheritance was selected. Now the site owner wants to create brand-new permissions. How can the site owner accomplish this?
+
+- [ ] Disable inheritance and set new permissions. 
+- [ ] Re-create the site in place without inheritance. 
+- [ ] Create a new site.
+- [ ] Delete inheritance and apply new permissions.
+
+#### 43. You would like certain SharePoint content libraries to indicate whether a document is final. How can you implement this?
+- [ ] Use the settings for the site. 
+- [ ] Use the properties for the library document.
+- [ ] Use the advanced settings for the library.
+- [ ] Use the custom column.
+
+
